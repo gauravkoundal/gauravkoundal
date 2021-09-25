@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SAP CAP.
+- 🔭 I’m currently working on SAP CAP.( Cloud Application Programming )
+- 🔭 SAP BTP 
 - 🌱 I’m currently learning JavaScript/HTML5
 - 📫 How to reach me: gaurav.koundal@gmail.com
 <!--
